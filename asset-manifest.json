@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19c98d2f.chunk.css",
+    "main.js": "/static/js/main.ac7692be.chunk.js",
+    "main.js.map": "/static/js/main.ac7692be.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e19d9236.chunk.js": "/static/js/2.e19d9236.chunk.js",
+    "static/js/2.e19d9236.chunk.js.map": "/static/js/2.e19d9236.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2a46aca21cbf13152ccfa73a27bd45c.js": "/precache-manifest.a2a46aca21cbf13152ccfa73a27bd45c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.19c98d2f.chunk.css.map": "/static/css/main.19c98d2f.chunk.css.map",
+    "static/media/background.jpg": "/static/media/background.d0b2ba9b.jpg",
+    "static/media/email-icon.2a45c381.svg": "/static/media/email-icon.2a45c381.svg",
+    "static/media/hospo.jpg": "/static/media/hospo.9dfff35b.jpg",
+    "static/media/logo-amazon.eaaa8ba1.svg": "/static/media/logo-amazon.eaaa8ba1.svg",
+    "static/media/logo-css3.587cc2ad.svg": "/static/media/logo-css3.587cc2ad.svg",
+    "static/media/logo-github.ecaefd05.svg": "/static/media/logo-github.ecaefd05.svg",
+    "static/media/logo-html5.da0088d1.svg": "/static/media/logo-html5.da0088d1.svg",
+    "static/media/logo-javascript.950b621d.svg": "/static/media/logo-javascript.950b621d.svg",
+    "static/media/logo-linkedin.b5cd8be8.svg": "/static/media/logo-linkedin.b5cd8be8.svg",
+    "static/media/logo-nodejs.ba9dcf6c.svg": "/static/media/logo-nodejs.ba9dcf6c.svg",
+    "static/media/logo-python.08224310.svg": "/static/media/logo-python.08224310.svg",
+    "static/media/logo-react.2b725c61.svg": "/static/media/logo-react.2b725c61.svg",
+    "static/media/retail.jpg": "/static/media/retail.18ac84bd.jpg",
+    "static/media/workplace.jpg": "/static/media/workplace.0d7f2659.jpg"
+  }
+}
